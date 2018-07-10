@@ -1,4 +1,4 @@
 # add some comment
-print("hello world!")
+print("Hello World!")
 print("more message for git test")
 print("My name is Maho Sasaki")
